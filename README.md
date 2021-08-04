@@ -1,2 +1,2 @@
 # spi_study_demo
-spi专题学习demo
+linux spi驱动专题学习demo
